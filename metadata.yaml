@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39933'
     url: http://www.gutenberg.org/2009/agents/39933
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39275#Directions-for-Collecting-and-Preserving-Insects
 gutenberg_issued: '2012-03-26'
 gutenberg_type: Text
 identifiers:
